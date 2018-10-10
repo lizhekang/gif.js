@@ -1,10 +1,10 @@
 {
-  "name": "gif.js",
-  "version": "0.2.0",
-  "description": "JavaScript GIF encoding library",
-  "author": "Johan Nordberg <code@johan-nordberg.com>",
+  "name": "gif.js-upgrade",
+  "version": "0.2.1",
+  "description": "JavaScript GIF encoding library (fix bug)",
+  "author": "dalexli <lizhekang@hotmail.com>",
   "main": "index.js",
-  "repository": "https://github.com/jnordberg/gif.js.git",
+  "repository": "https://github.com/lizhekang/gif.js.git",
   "devDependencies": {
     "browserify": "^13.1.1",
     "coffeeify": "^2.1.0",

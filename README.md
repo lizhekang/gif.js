@@ -1,3 +1,6 @@
+# fix bug
+
+- `gif.js`v0.2.0 can't set dispose.
 
 # gif.js
 
